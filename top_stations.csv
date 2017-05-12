@@ -1,0 +1,821 @@
+,station_id,stationname,date,daytype,rides,STOP_ID,DIRECTION_ID,STOP_NAME,STATION_NAME,STATION_DESCRIPTIVE_NAME,Location,zip_codes,has_market,month,spring,latitude,longitude,top_stations
+248012,40450,95th/Dan Ryan,2011-03-05,A,7359,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248013,40450,95th/Dan Ryan,2011-03-06,U,5641,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248019,40450,95th/Dan Ryan,2011-03-12,A,7815,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248020,40450,95th/Dan Ryan,2011-03-13,U,5710,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248026,40450,95th/Dan Ryan,2011-03-19,A,8144,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248027,40450,95th/Dan Ryan,2011-03-20,U,5334,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248033,40450,95th/Dan Ryan,2011-03-26,A,7564,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248034,40450,95th/Dan Ryan,2011-03-27,U,5481,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248040,40450,95th/Dan Ryan,2011-04-02,A,8596,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248041,40450,95th/Dan Ryan,2011-04-03,U,5986,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248047,40450,95th/Dan Ryan,2011-04-09,A,8681,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248048,40450,95th/Dan Ryan,2011-04-10,U,6650,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248054,40450,95th/Dan Ryan,2011-04-16,A,7122,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248055,40450,95th/Dan Ryan,2011-04-17,U,5843,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248061,40450,95th/Dan Ryan,2011-04-23,A,8007,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248062,40450,95th/Dan Ryan,2011-04-24,U,5884,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248068,40450,95th/Dan Ryan,2011-04-30,A,8889,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248069,40450,95th/Dan Ryan,2011-05-01,U,6451,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248075,40450,95th/Dan Ryan,2011-05-07,A,7896,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248076,40450,95th/Dan Ryan,2011-05-08,U,6396,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248082,40450,95th/Dan Ryan,2011-05-14,A,7087,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248083,40450,95th/Dan Ryan,2011-05-15,U,5304,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248089,40450,95th/Dan Ryan,2011-05-21,A,8028,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248090,40450,95th/Dan Ryan,2011-05-22,U,6107,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248096,40450,95th/Dan Ryan,2011-05-28,A,7151,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248097,40450,95th/Dan Ryan,2011-05-29,U,5453,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248098,40450,95th/Dan Ryan,2011-05-30,U,7809,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248381,40450,95th/Dan Ryan,2012-03-03,A,7467,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248382,40450,95th/Dan Ryan,2012-03-04,U,5733,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248388,40450,95th/Dan Ryan,2012-03-10,A,8264,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248389,40450,95th/Dan Ryan,2012-03-11,U,7020,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248395,40450,95th/Dan Ryan,2012-03-17,A,9268,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248396,40450,95th/Dan Ryan,2012-03-18,U,6512,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248402,40450,95th/Dan Ryan,2012-03-24,A,7952,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248403,40450,95th/Dan Ryan,2012-03-25,U,6176,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248409,40450,95th/Dan Ryan,2012-03-31,A,7580,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248410,40450,95th/Dan Ryan,2012-04-01,U,6127,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248416,40450,95th/Dan Ryan,2012-04-07,A,7791,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248417,40450,95th/Dan Ryan,2012-04-08,U,5917,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248423,40450,95th/Dan Ryan,2012-04-14,A,7755,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248424,40450,95th/Dan Ryan,2012-04-15,U,5861,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248430,40450,95th/Dan Ryan,2012-04-21,A,7865,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248431,40450,95th/Dan Ryan,2012-04-22,U,5793,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248437,40450,95th/Dan Ryan,2012-04-28,A,7220,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248438,40450,95th/Dan Ryan,2012-04-29,U,5646,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248444,40450,95th/Dan Ryan,2012-05-05,A,8279,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248445,40450,95th/Dan Ryan,2012-05-06,U,5820,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248451,40450,95th/Dan Ryan,2012-05-12,A,7463,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248452,40450,95th/Dan Ryan,2012-05-13,U,6164,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248458,40450,95th/Dan Ryan,2012-05-19,A,8475,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248459,40450,95th/Dan Ryan,2012-05-20,U,6283,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248465,40450,95th/Dan Ryan,2012-05-26,A,7967,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248466,40450,95th/Dan Ryan,2012-05-27,U,6920,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248467,40450,95th/Dan Ryan,2012-05-28,U,6254,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248745,40450,95th/Dan Ryan,2013-03-02,A,7175,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248746,40450,95th/Dan Ryan,2013-03-03,U,5424,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248752,40450,95th/Dan Ryan,2013-03-09,A,6952,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248753,40450,95th/Dan Ryan,2013-03-10,U,5143,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248759,40450,95th/Dan Ryan,2013-03-16,A,7106,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248760,40450,95th/Dan Ryan,2013-03-17,U,5255,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248766,40450,95th/Dan Ryan,2013-03-23,A,7128,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248767,40450,95th/Dan Ryan,2013-03-24,U,5002,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248773,40450,95th/Dan Ryan,2013-03-30,A,6981,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248774,40450,95th/Dan Ryan,2013-03-31,U,5319,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+248780,40450,95th/Dan Ryan,2013-04-06,A,7284,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248781,40450,95th/Dan Ryan,2013-04-07,U,5537,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248787,40450,95th/Dan Ryan,2013-04-13,A,7101,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248788,40450,95th/Dan Ryan,2013-04-14,U,5504,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248794,40450,95th/Dan Ryan,2013-04-20,A,6932,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248795,40450,95th/Dan Ryan,2013-04-21,U,5243,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248801,40450,95th/Dan Ryan,2013-04-27,A,7474,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248802,40450,95th/Dan Ryan,2013-04-28,U,5297,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+248808,40450,95th/Dan Ryan,2013-05-04,A,7145,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248809,40450,95th/Dan Ryan,2013-05-05,U,5435,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248815,40450,95th/Dan Ryan,2013-05-11,A,6718,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248816,40450,95th/Dan Ryan,2013-05-12,U,5146,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248822,40450,95th/Dan Ryan,2013-05-18,A,6732,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248823,40450,95th/Dan Ryan,2013-05-19,U,135,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248829,40450,95th/Dan Ryan,2013-05-25,A,0,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248830,40450,95th/Dan Ryan,2013-05-26,U,0,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+248831,40450,95th/Dan Ryan,2013-05-27,U,0,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249079,40450,95th/Dan Ryan,2014-03-01,A,6736,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249080,40450,95th/Dan Ryan,2014-03-02,U,4770,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249086,40450,95th/Dan Ryan,2014-03-08,A,6967,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249087,40450,95th/Dan Ryan,2014-03-09,U,5366,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249093,40450,95th/Dan Ryan,2014-03-15,A,7425,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249094,40450,95th/Dan Ryan,2014-03-16,U,5263,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249100,40450,95th/Dan Ryan,2014-03-22,A,7038,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249101,40450,95th/Dan Ryan,2014-03-23,U,5174,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249107,40450,95th/Dan Ryan,2014-03-29,A,6847,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249108,40450,95th/Dan Ryan,2014-03-30,U,5920,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249114,40450,95th/Dan Ryan,2014-04-05,A,7287,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249115,40450,95th/Dan Ryan,2014-04-06,U,5732,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249121,40450,95th/Dan Ryan,2014-04-12,A,7562,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249122,40450,95th/Dan Ryan,2014-04-13,U,5258,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249128,40450,95th/Dan Ryan,2014-04-19,A,7223,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249129,40450,95th/Dan Ryan,2014-04-20,U,5924,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249135,40450,95th/Dan Ryan,2014-04-26,A,7328,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249136,40450,95th/Dan Ryan,2014-04-27,U,5424,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249142,40450,95th/Dan Ryan,2014-05-03,A,7579,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249143,40450,95th/Dan Ryan,2014-05-04,U,5563,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249149,40450,95th/Dan Ryan,2014-05-10,A,7423,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249150,40450,95th/Dan Ryan,2014-05-11,U,5293,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249156,40450,95th/Dan Ryan,2014-05-17,A,7168,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249157,40450,95th/Dan Ryan,2014-05-18,U,5676,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249163,40450,95th/Dan Ryan,2014-05-24,A,7367,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249164,40450,95th/Dan Ryan,2014-05-25,U,5953,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249165,40450,95th/Dan Ryan,2014-05-26,U,5786,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249170,40450,95th/Dan Ryan,2014-05-31,A,7731,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249444,40450,95th/Dan Ryan,2015-03-01,U,5172,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249450,40450,95th/Dan Ryan,2015-03-07,A,7041,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249451,40450,95th/Dan Ryan,2015-03-08,U,5381,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249457,40450,95th/Dan Ryan,2015-03-14,A,7877,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249458,40450,95th/Dan Ryan,2015-03-15,U,6052,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249464,40450,95th/Dan Ryan,2015-03-21,A,7218,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249465,40450,95th/Dan Ryan,2015-03-22,U,5259,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249471,40450,95th/Dan Ryan,2015-03-28,A,6868,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249472,40450,95th/Dan Ryan,2015-03-29,U,4813,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249478,40450,95th/Dan Ryan,2015-04-04,A,7258,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249479,40450,95th/Dan Ryan,2015-04-05,U,5513,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249485,40450,95th/Dan Ryan,2015-04-11,A,7289,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249486,40450,95th/Dan Ryan,2015-04-12,U,5625,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249492,40450,95th/Dan Ryan,2015-04-18,A,7233,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249493,40450,95th/Dan Ryan,2015-04-19,U,5180,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249499,40450,95th/Dan Ryan,2015-04-25,A,6528,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249500,40450,95th/Dan Ryan,2015-04-26,U,5560,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249506,40450,95th/Dan Ryan,2015-05-02,A,8039,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249507,40450,95th/Dan Ryan,2015-05-03,U,5870,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249513,40450,95th/Dan Ryan,2015-05-09,A,7249,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249514,40450,95th/Dan Ryan,2015-05-10,U,5323,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249520,40450,95th/Dan Ryan,2015-05-16,A,7504,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249521,40450,95th/Dan Ryan,2015-05-17,U,5704,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249527,40450,95th/Dan Ryan,2015-05-23,A,7605,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249528,40450,95th/Dan Ryan,2015-05-24,U,5549,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249529,40450,95th/Dan Ryan,2015-05-25,U,5610,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249534,40450,95th/Dan Ryan,2015-05-30,A,6573,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249535,40450,95th/Dan Ryan,2015-05-31,U,5289,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249814,40450,95th/Dan Ryan,2016-03-05,A,6518,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249815,40450,95th/Dan Ryan,2016-03-06,U,5405,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249821,40450,95th/Dan Ryan,2016-03-12,A,7156,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249822,40450,95th/Dan Ryan,2016-03-13,U,4864,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249828,40450,95th/Dan Ryan,2016-03-19,A,6767,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249829,40450,95th/Dan Ryan,2016-03-20,U,5144,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249835,40450,95th/Dan Ryan,2016-03-26,A,6534,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249836,40450,95th/Dan Ryan,2016-03-27,U,4929,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,3,True,41.722377, -87.624342,True
+249842,40450,95th/Dan Ryan,2016-04-02,A,6343,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249843,40450,95th/Dan Ryan,2016-04-03,U,5287,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249849,40450,95th/Dan Ryan,2016-04-09,A,6335,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249850,40450,95th/Dan Ryan,2016-04-10,U,4826,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249856,40450,95th/Dan Ryan,2016-04-16,A,7058,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249857,40450,95th/Dan Ryan,2016-04-17,U,5723,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249863,40450,95th/Dan Ryan,2016-04-23,A,6729,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249864,40450,95th/Dan Ryan,2016-04-24,U,5598,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249870,40450,95th/Dan Ryan,2016-04-30,A,6254,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,4,True,41.722377, -87.624342,True
+249871,40450,95th/Dan Ryan,2016-05-01,U,5140,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249877,40450,95th/Dan Ryan,2016-05-07,A,6967,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249878,40450,95th/Dan Ryan,2016-05-08,U,5599,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249884,40450,95th/Dan Ryan,2016-05-14,A,6707,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249885,40450,95th/Dan Ryan,2016-05-15,U,5424,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249891,40450,95th/Dan Ryan,2016-05-21,A,7078,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249892,40450,95th/Dan Ryan,2016-05-22,U,5615,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249898,40450,95th/Dan Ryan,2016-05-28,A,6980,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249899,40450,95th/Dan Ryan,2016-05-29,U,5684,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+249900,40450,95th/Dan Ryan,2016-05-30,U,5824,30089,S,95th/Dan Ryan (95th-bound),95th/Dan Ryan,95th/Dan Ryan (Red Line),"41.722377, -87.624342",60620,True,5,True,41.722377, -87.624342,True
+341073,40630,Clark/Division,2011-03-05,A,5659,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341074,40630,Clark/Division,2011-03-06,U,4567,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341080,40630,Clark/Division,2011-03-12,A,8300,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341081,40630,Clark/Division,2011-03-13,U,4744,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341087,40630,Clark/Division,2011-03-19,A,6539,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341088,40630,Clark/Division,2011-03-20,U,4544,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341094,40630,Clark/Division,2011-03-26,A,5954,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341095,40630,Clark/Division,2011-03-27,U,4443,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341101,40630,Clark/Division,2011-04-02,A,6807,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341102,40630,Clark/Division,2011-04-03,U,5057,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341108,40630,Clark/Division,2011-04-09,A,6908,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341109,40630,Clark/Division,2011-04-10,U,5980,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341115,40630,Clark/Division,2011-04-16,A,5962,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341116,40630,Clark/Division,2011-04-17,U,4694,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341122,40630,Clark/Division,2011-04-23,A,6126,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341123,40630,Clark/Division,2011-04-24,U,4004,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341129,40630,Clark/Division,2011-04-30,A,6544,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341130,40630,Clark/Division,2011-05-01,U,4693,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341136,40630,Clark/Division,2011-05-07,A,6471,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341137,40630,Clark/Division,2011-05-08,U,4783,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341143,40630,Clark/Division,2011-05-14,A,6231,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341144,40630,Clark/Division,2011-05-15,U,4274,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341150,40630,Clark/Division,2011-05-21,A,6391,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341151,40630,Clark/Division,2011-05-22,U,5165,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341157,40630,Clark/Division,2011-05-28,A,6085,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341158,40630,Clark/Division,2011-05-29,U,4721,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341159,40630,Clark/Division,2011-05-30,U,7211,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341439,40630,Clark/Division,2012-03-03,A,6244,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341440,40630,Clark/Division,2012-03-04,U,5033,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341446,40630,Clark/Division,2012-03-10,A,6463,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341447,40630,Clark/Division,2012-03-11,U,5194,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341453,40630,Clark/Division,2012-03-17,A,12061,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341454,40630,Clark/Division,2012-03-18,U,6182,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341460,40630,Clark/Division,2012-03-24,A,6399,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341461,40630,Clark/Division,2012-03-25,U,5764,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341467,40630,Clark/Division,2012-03-31,A,7058,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341468,40630,Clark/Division,2012-04-01,U,5354,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341474,40630,Clark/Division,2012-04-07,A,6530,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341475,40630,Clark/Division,2012-04-08,U,4583,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341481,40630,Clark/Division,2012-04-14,A,7155,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341482,40630,Clark/Division,2012-04-15,U,5099,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341488,40630,Clark/Division,2012-04-21,A,7197,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341489,40630,Clark/Division,2012-04-22,U,5647,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341495,40630,Clark/Division,2012-04-28,A,6476,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341496,40630,Clark/Division,2012-04-29,U,5004,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341502,40630,Clark/Division,2012-05-05,A,7532,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341503,40630,Clark/Division,2012-05-06,U,5419,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341509,40630,Clark/Division,2012-05-12,A,6501,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341510,40630,Clark/Division,2012-05-13,U,4997,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341516,40630,Clark/Division,2012-05-19,A,7101,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341517,40630,Clark/Division,2012-05-20,U,5400,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341523,40630,Clark/Division,2012-05-26,A,7057,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341524,40630,Clark/Division,2012-05-27,U,6943,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341525,40630,Clark/Division,2012-05-28,U,5719,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341803,40630,Clark/Division,2013-03-02,A,6251,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341804,40630,Clark/Division,2013-03-03,U,4773,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341810,40630,Clark/Division,2013-03-09,A,6044,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341811,40630,Clark/Division,2013-03-10,U,4647,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341817,40630,Clark/Division,2013-03-16,A,9461,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341818,40630,Clark/Division,2013-03-17,U,5490,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341824,40630,Clark/Division,2013-03-23,A,6434,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341825,40630,Clark/Division,2013-03-24,U,4440,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341831,40630,Clark/Division,2013-03-30,A,5793,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341832,40630,Clark/Division,2013-03-31,U,3909,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+341838,40630,Clark/Division,2013-04-06,A,6880,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341839,40630,Clark/Division,2013-04-07,U,5372,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341845,40630,Clark/Division,2013-04-13,A,6954,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341846,40630,Clark/Division,2013-04-14,U,5498,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341852,40630,Clark/Division,2013-04-20,A,6663,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341853,40630,Clark/Division,2013-04-21,U,4893,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341859,40630,Clark/Division,2013-04-27,A,7165,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341860,40630,Clark/Division,2013-04-28,U,5026,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+341866,40630,Clark/Division,2013-05-04,A,7230,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341867,40630,Clark/Division,2013-05-05,U,5524,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341873,40630,Clark/Division,2013-05-11,A,6633,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341874,40630,Clark/Division,2013-05-12,U,4653,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341880,40630,Clark/Division,2013-05-18,A,7263,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341881,40630,Clark/Division,2013-05-19,U,5621,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341887,40630,Clark/Division,2013-05-25,A,5321,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341888,40630,Clark/Division,2013-05-26,U,4969,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+341889,40630,Clark/Division,2013-05-27,U,3860,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342167,40630,Clark/Division,2014-03-01,A,6570,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342168,40630,Clark/Division,2014-03-02,U,4835,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342174,40630,Clark/Division,2014-03-08,A,6636,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342175,40630,Clark/Division,2014-03-09,U,4968,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342181,40630,Clark/Division,2014-03-15,A,9785,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342182,40630,Clark/Division,2014-03-16,U,5697,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342188,40630,Clark/Division,2014-03-22,A,6577,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342189,40630,Clark/Division,2014-03-23,U,4810,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342195,40630,Clark/Division,2014-03-29,A,6464,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342196,40630,Clark/Division,2014-03-30,U,5855,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342202,40630,Clark/Division,2014-04-05,A,7430,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342203,40630,Clark/Division,2014-04-06,U,5459,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342209,40630,Clark/Division,2014-04-12,A,7552,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342210,40630,Clark/Division,2014-04-13,U,4990,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342216,40630,Clark/Division,2014-04-19,A,6742,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342217,40630,Clark/Division,2014-04-20,U,4875,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342223,40630,Clark/Division,2014-04-26,A,7088,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342224,40630,Clark/Division,2014-04-27,U,4964,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342230,40630,Clark/Division,2014-05-03,A,7156,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342231,40630,Clark/Division,2014-05-04,U,5282,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342237,40630,Clark/Division,2014-05-10,A,6580,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342238,40630,Clark/Division,2014-05-11,U,4634,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342244,40630,Clark/Division,2014-05-17,A,6844,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342245,40630,Clark/Division,2014-05-18,U,5419,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342251,40630,Clark/Division,2014-05-24,A,6525,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342252,40630,Clark/Division,2014-05-25,U,5702,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342253,40630,Clark/Division,2014-05-26,U,4967,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342258,40630,Clark/Division,2014-05-31,A,7523,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342532,40630,Clark/Division,2015-03-01,U,4189,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342538,40630,Clark/Division,2015-03-07,A,5586,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342539,40630,Clark/Division,2015-03-08,U,4178,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342545,40630,Clark/Division,2015-03-14,A,8625,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342546,40630,Clark/Division,2015-03-15,U,4918,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342552,40630,Clark/Division,2015-03-21,A,5772,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342553,40630,Clark/Division,2015-03-22,U,3995,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342559,40630,Clark/Division,2015-03-28,A,5559,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342560,40630,Clark/Division,2015-03-29,U,4618,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342566,40630,Clark/Division,2015-04-04,A,5349,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342567,40630,Clark/Division,2015-04-05,U,4441,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342573,40630,Clark/Division,2015-04-11,A,6436,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342574,40630,Clark/Division,2015-04-12,U,4774,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342580,40630,Clark/Division,2015-04-18,A,7124,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342581,40630,Clark/Division,2015-04-19,U,4714,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342587,40630,Clark/Division,2015-04-25,A,5711,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342588,40630,Clark/Division,2015-04-26,U,4676,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342594,40630,Clark/Division,2015-05-02,A,7478,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342595,40630,Clark/Division,2015-05-03,U,5221,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342601,40630,Clark/Division,2015-05-09,A,6466,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342602,40630,Clark/Division,2015-05-10,U,4564,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342608,40630,Clark/Division,2015-05-16,A,7397,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342609,40630,Clark/Division,2015-05-17,U,5347,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342615,40630,Clark/Division,2015-05-23,A,6696,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342616,40630,Clark/Division,2015-05-24,U,5056,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342617,40630,Clark/Division,2015-05-25,U,4648,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342622,40630,Clark/Division,2015-05-30,A,6082,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342623,40630,Clark/Division,2015-05-31,U,4958,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342902,40630,Clark/Division,2016-03-05,A,6269,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342903,40630,Clark/Division,2016-03-06,U,4956,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342909,40630,Clark/Division,2016-03-12,A,8705,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342910,40630,Clark/Division,2016-03-13,U,4720,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342916,40630,Clark/Division,2016-03-19,A,6462,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342917,40630,Clark/Division,2016-03-20,U,4834,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342923,40630,Clark/Division,2016-03-26,A,5990,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342924,40630,Clark/Division,2016-03-27,U,4073,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,3,True,41.90392, -87.631412,True
+342930,40630,Clark/Division,2016-04-02,A,6054,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342931,40630,Clark/Division,2016-04-03,U,5332,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342937,40630,Clark/Division,2016-04-09,A,6706,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342938,40630,Clark/Division,2016-04-10,U,4593,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342944,40630,Clark/Division,2016-04-16,A,7351,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342945,40630,Clark/Division,2016-04-17,U,5709,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342951,40630,Clark/Division,2016-04-23,A,6741,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342952,40630,Clark/Division,2016-04-24,U,5308,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342958,40630,Clark/Division,2016-04-30,A,6003,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,4,True,41.90392, -87.631412,True
+342959,40630,Clark/Division,2016-05-01,U,5066,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342965,40630,Clark/Division,2016-05-07,A,6971,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342966,40630,Clark/Division,2016-05-08,U,5273,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342972,40630,Clark/Division,2016-05-14,A,6862,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342973,40630,Clark/Division,2016-05-15,U,5347,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342979,40630,Clark/Division,2016-05-21,A,6913,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342980,40630,Clark/Division,2016-05-22,U,5525,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342986,40630,Clark/Division,2016-05-28,A,7237,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342987,40630,Clark/Division,2016-05-29,U,6370,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+342988,40630,Clark/Division,2016-05-30,U,6695,30122,S,Clark/Division (95th-bound),Clark/Division,Clark/Division (Red Line),"41.90392, -87.631412",60610,True,5,True,41.90392, -87.631412,True
+660862,41220,Fullerton,2011-03-05,A,8109,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+660863,41220,Fullerton,2011-03-06,U,6668,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+660869,41220,Fullerton,2011-03-12,A,12763,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+660870,41220,Fullerton,2011-03-13,U,6517,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+660876,41220,Fullerton,2011-03-19,A,8048,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+660877,41220,Fullerton,2011-03-20,U,4994,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+660883,41220,Fullerton,2011-03-26,A,7139,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+660884,41220,Fullerton,2011-03-27,U,5668,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+660890,41220,Fullerton,2011-04-02,A,10143,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+660891,41220,Fullerton,2011-04-03,U,6766,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+660897,41220,Fullerton,2011-04-09,A,10004,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+660898,41220,Fullerton,2011-04-10,U,8207,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+660904,41220,Fullerton,2011-04-16,A,8921,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+660905,41220,Fullerton,2011-04-17,U,7278,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+660911,41220,Fullerton,2011-04-23,A,8227,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+660912,41220,Fullerton,2011-04-24,U,4972,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+660918,41220,Fullerton,2011-04-30,A,10253,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+660919,41220,Fullerton,2011-05-01,U,7145,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+660925,41220,Fullerton,2011-05-07,A,10322,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+660926,41220,Fullerton,2011-05-08,U,6923,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+660932,41220,Fullerton,2011-05-14,A,8683,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+660933,41220,Fullerton,2011-05-15,U,6305,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+660939,41220,Fullerton,2011-05-21,A,9328,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+660940,41220,Fullerton,2011-05-22,U,6968,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+660946,41220,Fullerton,2011-05-28,A,9253,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+660947,41220,Fullerton,2011-05-29,U,6428,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+660948,41220,Fullerton,2011-05-30,U,7082,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661227,41220,Fullerton,2012-03-03,A,9335,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661228,41220,Fullerton,2012-03-04,U,7067,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661234,41220,Fullerton,2012-03-10,A,10474,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661235,41220,Fullerton,2012-03-11,U,7363,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661241,41220,Fullerton,2012-03-17,A,17403,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661242,41220,Fullerton,2012-03-18,U,8923,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661248,41220,Fullerton,2012-03-24,A,8128,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661249,41220,Fullerton,2012-03-25,U,7742,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661255,41220,Fullerton,2012-03-31,A,10091,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661256,41220,Fullerton,2012-04-01,U,7488,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661262,41220,Fullerton,2012-04-07,A,8570,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661263,41220,Fullerton,2012-04-08,U,5185,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661269,41220,Fullerton,2012-04-14,A,11054,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661270,41220,Fullerton,2012-04-15,U,7210,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661276,41220,Fullerton,2012-04-21,A,10577,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661277,41220,Fullerton,2012-04-22,U,7902,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661283,41220,Fullerton,2012-04-28,A,10034,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661284,41220,Fullerton,2012-04-29,U,7227,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661290,41220,Fullerton,2012-05-05,A,11344,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661291,41220,Fullerton,2012-05-06,U,7652,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661297,41220,Fullerton,2012-05-12,A,9218,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661298,41220,Fullerton,2012-05-13,U,6660,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661304,41220,Fullerton,2012-05-19,A,10645,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661305,41220,Fullerton,2012-05-20,U,8222,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661311,41220,Fullerton,2012-05-26,A,10448,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661312,41220,Fullerton,2012-05-27,U,8150,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661313,41220,Fullerton,2012-05-28,U,6813,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661591,41220,Fullerton,2013-03-02,A,9222,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661592,41220,Fullerton,2013-03-03,U,6960,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661598,41220,Fullerton,2013-03-09,A,9632,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661599,41220,Fullerton,2013-03-10,U,6893,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661605,41220,Fullerton,2013-03-16,A,16456,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661606,41220,Fullerton,2013-03-17,U,8550,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661612,41220,Fullerton,2013-03-23,A,7902,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661613,41220,Fullerton,2013-03-24,U,5464,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661619,41220,Fullerton,2013-03-30,A,6988,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661620,41220,Fullerton,2013-03-31,U,4688,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661626,41220,Fullerton,2013-04-06,A,8689,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661627,41220,Fullerton,2013-04-07,U,8331,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661633,41220,Fullerton,2013-04-13,A,10212,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661634,41220,Fullerton,2013-04-14,U,7993,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661640,41220,Fullerton,2013-04-20,A,10219,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661641,41220,Fullerton,2013-04-21,U,7039,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661647,41220,Fullerton,2013-04-27,A,11032,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661648,41220,Fullerton,2013-04-28,U,7440,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661654,41220,Fullerton,2013-05-04,A,11406,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661655,41220,Fullerton,2013-05-05,U,7914,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661661,41220,Fullerton,2013-05-11,A,9378,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661662,41220,Fullerton,2013-05-12,U,6200,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661668,41220,Fullerton,2013-05-18,A,10670,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661669,41220,Fullerton,2013-05-19,U,8113,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661675,41220,Fullerton,2013-05-25,A,8507,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661676,41220,Fullerton,2013-05-26,U,7549,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661677,41220,Fullerton,2013-05-27,U,5604,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+661955,41220,Fullerton,2014-03-01,A,8726,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661956,41220,Fullerton,2014-03-02,U,5976,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661962,41220,Fullerton,2014-03-08,A,9322,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661963,41220,Fullerton,2014-03-09,U,6877,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661969,41220,Fullerton,2014-03-15,A,15845,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661970,41220,Fullerton,2014-03-16,U,7446,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661976,41220,Fullerton,2014-03-22,A,8090,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661977,41220,Fullerton,2014-03-23,U,5186,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661983,41220,Fullerton,2014-03-29,A,7322,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661984,41220,Fullerton,2014-03-30,U,7315,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+661990,41220,Fullerton,2014-04-05,A,10805,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661991,41220,Fullerton,2014-04-06,U,7419,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661997,41220,Fullerton,2014-04-12,A,10976,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+661998,41220,Fullerton,2014-04-13,U,6844,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662004,41220,Fullerton,2014-04-19,A,8397,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662005,41220,Fullerton,2014-04-20,U,5206,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662011,41220,Fullerton,2014-04-26,A,10150,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662012,41220,Fullerton,2014-04-27,U,6876,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662018,41220,Fullerton,2014-05-03,A,11153,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662019,41220,Fullerton,2014-05-04,U,7272,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662025,41220,Fullerton,2014-05-10,A,9548,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662026,41220,Fullerton,2014-05-11,U,6142,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662032,41220,Fullerton,2014-05-17,A,9965,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662033,41220,Fullerton,2014-05-18,U,7387,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662039,41220,Fullerton,2014-05-24,A,9876,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662040,41220,Fullerton,2014-05-25,U,7608,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662041,41220,Fullerton,2014-05-26,U,5702,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662046,41220,Fullerton,2014-05-31,A,10492,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662320,41220,Fullerton,2015-03-01,U,7166,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662326,41220,Fullerton,2015-03-07,A,9188,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662327,41220,Fullerton,2015-03-08,U,6574,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662333,41220,Fullerton,2015-03-14,A,15661,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662334,41220,Fullerton,2015-03-15,U,8817,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662340,41220,Fullerton,2015-03-21,A,7481,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662341,41220,Fullerton,2015-03-22,U,4823,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662347,41220,Fullerton,2015-03-28,A,7287,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662348,41220,Fullerton,2015-03-29,U,5974,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662354,41220,Fullerton,2015-04-04,A,7868,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662355,41220,Fullerton,2015-04-05,U,5430,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662361,41220,Fullerton,2015-04-11,A,11889,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662362,41220,Fullerton,2015-04-12,U,8073,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662368,41220,Fullerton,2015-04-18,A,12861,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662369,41220,Fullerton,2015-04-19,U,8023,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662375,41220,Fullerton,2015-04-25,A,8932,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662376,41220,Fullerton,2015-04-26,U,7056,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662382,41220,Fullerton,2015-05-02,A,13785,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662383,41220,Fullerton,2015-05-03,U,8835,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662389,41220,Fullerton,2015-05-09,A,10277,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662390,41220,Fullerton,2015-05-10,U,6688,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662396,41220,Fullerton,2015-05-16,A,12476,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662397,41220,Fullerton,2015-05-17,U,9150,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662403,41220,Fullerton,2015-05-23,A,9330,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662404,41220,Fullerton,2015-05-24,U,6894,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662405,41220,Fullerton,2015-05-25,U,6036,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662410,41220,Fullerton,2015-05-30,A,10603,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662411,41220,Fullerton,2015-05-31,U,8379,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662690,41220,Fullerton,2016-03-05,A,8980,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662691,41220,Fullerton,2016-03-06,U,7257,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662697,41220,Fullerton,2016-03-12,A,13494,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662698,41220,Fullerton,2016-03-13,U,6199,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662704,41220,Fullerton,2016-03-19,A,7581,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662705,41220,Fullerton,2016-03-20,U,5408,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662711,41220,Fullerton,2016-03-26,A,6371,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662712,41220,Fullerton,2016-03-27,U,4089,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,3,True,41.925051, -87.652866,True
+662718,41220,Fullerton,2016-04-02,A,8223,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662719,41220,Fullerton,2016-04-03,U,7103,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662725,41220,Fullerton,2016-04-09,A,8667,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662726,41220,Fullerton,2016-04-10,U,6106,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662732,41220,Fullerton,2016-04-16,A,10420,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662733,41220,Fullerton,2016-04-17,U,7722,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662739,41220,Fullerton,2016-04-23,A,9372,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662740,41220,Fullerton,2016-04-24,U,7197,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662746,41220,Fullerton,2016-04-30,A,7661,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,4,True,41.925051, -87.652866,True
+662747,41220,Fullerton,2016-05-01,U,6529,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662753,41220,Fullerton,2016-05-07,A,9243,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662754,41220,Fullerton,2016-05-08,U,6466,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662760,41220,Fullerton,2016-05-14,A,8968,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662761,41220,Fullerton,2016-05-15,U,7145,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662767,41220,Fullerton,2016-05-21,A,9678,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662768,41220,Fullerton,2016-05-22,U,7314,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662774,41220,Fullerton,2016-05-28,A,9595,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662775,41220,Fullerton,2016-05-29,U,7790,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+662776,41220,Fullerton,2016-05-30,U,6279,30234,S,Fullerton (95th-bound),Fullerton,"Fullerton (Red, Brown & Purple Lines)","41.925051, -87.652866",60614,True,5,True,41.925051, -87.652866,True
+753918,41400,Roosevelt,2011-03-05,A,7500,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+753919,41400,Roosevelt,2011-03-06,U,5678,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+753925,41400,Roosevelt,2011-03-12,A,9107,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+753926,41400,Roosevelt,2011-03-13,U,5873,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+753932,41400,Roosevelt,2011-03-19,A,8531,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+753933,41400,Roosevelt,2011-03-20,U,5460,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+753939,41400,Roosevelt,2011-03-26,A,7983,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+753940,41400,Roosevelt,2011-03-27,U,5788,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+753946,41400,Roosevelt,2011-04-02,A,8719,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+753947,41400,Roosevelt,2011-04-03,U,6166,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+753953,41400,Roosevelt,2011-04-09,A,8648,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+753954,41400,Roosevelt,2011-04-10,U,8469,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+753960,41400,Roosevelt,2011-04-16,A,8038,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+753961,41400,Roosevelt,2011-04-17,U,6460,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+753967,41400,Roosevelt,2011-04-23,A,7890,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+753968,41400,Roosevelt,2011-04-24,U,5558,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+753974,41400,Roosevelt,2011-04-30,A,8707,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+753975,41400,Roosevelt,2011-05-01,U,6354,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+753981,41400,Roosevelt,2011-05-07,A,8916,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+753982,41400,Roosevelt,2011-05-08,U,6399,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+753988,41400,Roosevelt,2011-05-14,A,8264,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+753989,41400,Roosevelt,2011-05-15,U,5741,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+753995,41400,Roosevelt,2011-05-21,A,8163,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+753996,41400,Roosevelt,2011-05-22,U,6436,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754002,41400,Roosevelt,2011-05-28,A,8820,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754003,41400,Roosevelt,2011-05-29,U,6347,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754004,41400,Roosevelt,2011-05-30,U,7259,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754294,41400,Roosevelt,2012-03-03,A,8622,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754295,41400,Roosevelt,2012-03-04,U,6600,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754301,41400,Roosevelt,2012-03-10,A,9532,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754302,41400,Roosevelt,2012-03-11,U,6710,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754308,41400,Roosevelt,2012-03-17,A,11768,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754309,41400,Roosevelt,2012-03-18,U,7476,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754315,41400,Roosevelt,2012-03-24,A,8906,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754316,41400,Roosevelt,2012-03-25,U,8883,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754322,41400,Roosevelt,2012-03-31,A,9003,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754323,41400,Roosevelt,2012-04-01,U,6958,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754329,41400,Roosevelt,2012-04-07,A,8603,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754330,41400,Roosevelt,2012-04-08,U,6057,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754336,41400,Roosevelt,2012-04-14,A,9715,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754337,41400,Roosevelt,2012-04-15,U,6792,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754343,41400,Roosevelt,2012-04-21,A,9553,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754344,41400,Roosevelt,2012-04-22,U,7303,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754350,41400,Roosevelt,2012-04-28,A,8730,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754351,41400,Roosevelt,2012-04-29,U,6778,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754357,41400,Roosevelt,2012-05-05,A,9908,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754358,41400,Roosevelt,2012-05-06,U,7063,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754364,41400,Roosevelt,2012-05-12,A,8906,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754365,41400,Roosevelt,2012-05-13,U,6737,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754371,41400,Roosevelt,2012-05-19,A,8553,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754372,41400,Roosevelt,2012-05-20,U,7991,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754378,41400,Roosevelt,2012-05-26,A,9707,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754379,41400,Roosevelt,2012-05-27,U,8366,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754380,41400,Roosevelt,2012-05-28,U,7196,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754658,41400,Roosevelt,2013-03-02,A,8081,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754659,41400,Roosevelt,2013-03-03,U,6183,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754665,41400,Roosevelt,2013-03-09,A,8300,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754666,41400,Roosevelt,2013-03-10,U,6100,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754672,41400,Roosevelt,2013-03-16,A,10458,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754673,41400,Roosevelt,2013-03-17,U,6608,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754679,41400,Roosevelt,2013-03-23,A,7939,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754680,41400,Roosevelt,2013-03-24,U,6169,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754686,41400,Roosevelt,2013-03-30,A,7875,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754687,41400,Roosevelt,2013-03-31,U,5370,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+754693,41400,Roosevelt,2013-04-06,A,9916,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754694,41400,Roosevelt,2013-04-07,U,8833,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754700,41400,Roosevelt,2013-04-13,A,8845,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754701,41400,Roosevelt,2013-04-14,U,6350,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754707,41400,Roosevelt,2013-04-20,A,8420,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754708,41400,Roosevelt,2013-04-21,U,6305,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754714,41400,Roosevelt,2013-04-27,A,9350,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754715,41400,Roosevelt,2013-04-28,U,6853,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+754721,41400,Roosevelt,2013-05-04,A,8901,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754722,41400,Roosevelt,2013-05-05,U,6879,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754728,41400,Roosevelt,2013-05-11,A,9121,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754729,41400,Roosevelt,2013-05-12,U,6267,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754735,41400,Roosevelt,2013-05-18,A,9155,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754736,41400,Roosevelt,2013-05-19,U,8434,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754742,41400,Roosevelt,2013-05-25,A,9225,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754743,41400,Roosevelt,2013-05-26,U,8005,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+754744,41400,Roosevelt,2013-05-27,U,6681,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755022,41400,Roosevelt,2014-03-01,A,14020,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755023,41400,Roosevelt,2014-03-02,U,6608,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755029,41400,Roosevelt,2014-03-08,A,8622,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755030,41400,Roosevelt,2014-03-09,U,6596,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755036,41400,Roosevelt,2014-03-15,A,12074,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755037,41400,Roosevelt,2014-03-16,U,7026,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755043,41400,Roosevelt,2014-03-22,A,8630,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755044,41400,Roosevelt,2014-03-23,U,6439,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755050,41400,Roosevelt,2014-03-29,A,9514,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755051,41400,Roosevelt,2014-03-30,U,9015,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755057,41400,Roosevelt,2014-04-05,A,10016,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755058,41400,Roosevelt,2014-04-06,U,7346,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755064,41400,Roosevelt,2014-04-12,A,9708,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755065,41400,Roosevelt,2014-04-13,U,6426,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755071,41400,Roosevelt,2014-04-19,A,14062,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755072,41400,Roosevelt,2014-04-20,U,9906,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755078,41400,Roosevelt,2014-04-26,A,10027,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755079,41400,Roosevelt,2014-04-27,U,6854,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755085,41400,Roosevelt,2014-05-03,A,16876,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755086,41400,Roosevelt,2014-05-04,U,11457,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755092,41400,Roosevelt,2014-05-10,A,10142,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755093,41400,Roosevelt,2014-05-11,U,6821,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755099,41400,Roosevelt,2014-05-17,A,16640,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755100,41400,Roosevelt,2014-05-18,U,11856,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755106,41400,Roosevelt,2014-05-24,A,14967,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755107,41400,Roosevelt,2014-05-25,U,11481,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755108,41400,Roosevelt,2014-05-26,U,9542,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755113,41400,Roosevelt,2014-05-31,A,10446,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755387,41400,Roosevelt,2015-03-01,U,5587,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755393,41400,Roosevelt,2015-03-07,A,7860,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755394,41400,Roosevelt,2015-03-08,U,5913,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755400,41400,Roosevelt,2015-03-14,A,10977,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755401,41400,Roosevelt,2015-03-15,U,6742,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755407,41400,Roosevelt,2015-03-21,A,8475,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755408,41400,Roosevelt,2015-03-22,U,5985,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755414,41400,Roosevelt,2015-03-28,A,8840,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755415,41400,Roosevelt,2015-03-29,U,7794,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755421,41400,Roosevelt,2015-04-04,A,8941,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755422,41400,Roosevelt,2015-04-05,U,6265,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755428,41400,Roosevelt,2015-04-11,A,8964,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755429,41400,Roosevelt,2015-04-12,U,6499,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755435,41400,Roosevelt,2015-04-18,A,9169,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755436,41400,Roosevelt,2015-04-19,U,6549,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755442,41400,Roosevelt,2015-04-25,A,8518,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755443,41400,Roosevelt,2015-04-26,U,7131,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755449,41400,Roosevelt,2015-05-02,A,10534,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755450,41400,Roosevelt,2015-05-03,U,7564,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755456,41400,Roosevelt,2015-05-09,A,9709,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755457,41400,Roosevelt,2015-05-10,U,6153,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755463,41400,Roosevelt,2015-05-16,A,8941,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755464,41400,Roosevelt,2015-05-17,U,6754,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755470,41400,Roosevelt,2015-05-23,A,9663,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755471,41400,Roosevelt,2015-05-24,U,7433,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755472,41400,Roosevelt,2015-05-25,U,6483,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755477,41400,Roosevelt,2015-05-30,A,8062,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755478,41400,Roosevelt,2015-05-31,U,6386,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755757,41400,Roosevelt,2016-03-05,A,8131,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755758,41400,Roosevelt,2016-03-06,U,6321,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755764,41400,Roosevelt,2016-03-12,A,10523,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755765,41400,Roosevelt,2016-03-13,U,5973,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755771,41400,Roosevelt,2016-03-19,A,8822,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755772,41400,Roosevelt,2016-03-20,U,6435,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755778,41400,Roosevelt,2016-03-26,A,8662,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755779,41400,Roosevelt,2016-03-27,U,5626,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,3,True,41.867405, -87.62659,True
+755785,41400,Roosevelt,2016-04-02,A,8921,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755786,41400,Roosevelt,2016-04-03,U,8536,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755792,41400,Roosevelt,2016-04-09,A,8605,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755793,41400,Roosevelt,2016-04-10,U,5964,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755799,41400,Roosevelt,2016-04-16,A,10566,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755800,41400,Roosevelt,2016-04-17,U,7162,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755806,41400,Roosevelt,2016-04-23,A,8367,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755807,41400,Roosevelt,2016-04-24,U,6938,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755813,41400,Roosevelt,2016-04-30,A,8394,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,4,True,41.867405, -87.62659,True
+755814,41400,Roosevelt,2016-05-01,U,6292,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755820,41400,Roosevelt,2016-05-07,A,10306,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755821,41400,Roosevelt,2016-05-08,U,6921,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755827,41400,Roosevelt,2016-05-14,A,8737,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755828,41400,Roosevelt,2016-05-15,U,6664,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755834,41400,Roosevelt,2016-05-21,A,8479,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755835,41400,Roosevelt,2016-05-22,U,6668,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755841,41400,Roosevelt,2016-05-28,A,15468,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755842,41400,Roosevelt,2016-05-29,U,9389,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+755843,41400,Roosevelt,2016-05-30,U,6724,30080,N,Roosevelt (Loop-Harlem-bound),Roosevelt,"Roosevelt (Red, Orange & Green Lines)","41.867405, -87.62659",60605,True,5,True,41.867405, -87.62659,True
+765556,41420,Addison-North Main,2011-03-05,A,5056,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765557,41420,Addison-North Main,2011-03-06,U,3851,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765563,41420,Addison-North Main,2011-03-12,A,9984,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765564,41420,Addison-North Main,2011-03-13,U,5330,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765570,41420,Addison-North Main,2011-03-19,A,6346,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765571,41420,Addison-North Main,2011-03-20,U,4152,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765577,41420,Addison-North Main,2011-03-26,A,5789,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765578,41420,Addison-North Main,2011-03-27,U,4523,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765584,41420,Addison-North Main,2011-04-02,A,13728,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765585,41420,Addison-North Main,2011-04-03,U,9806,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765591,41420,Addison-North Main,2011-04-09,A,6559,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765592,41420,Addison-North Main,2011-04-10,U,5572,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765598,41420,Addison-North Main,2011-04-16,A,6992,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765599,41420,Addison-North Main,2011-04-17,U,4818,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765605,41420,Addison-North Main,2011-04-23,A,14678,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765606,41420,Addison-North Main,2011-04-24,U,9521,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765612,41420,Addison-North Main,2011-04-30,A,6281,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765613,41420,Addison-North Main,2011-05-01,U,5253,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765619,41420,Addison-North Main,2011-05-07,A,13667,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765620,41420,Addison-North Main,2011-05-08,U,10464,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765626,41420,Addison-North Main,2011-05-14,A,12579,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765627,41420,Addison-North Main,2011-05-15,U,7247,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765633,41420,Addison-North Main,2011-05-21,A,5569,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765634,41420,Addison-North Main,2011-05-22,U,5150,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765640,41420,Addison-North Main,2011-05-28,A,14431,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765641,41420,Addison-North Main,2011-05-29,U,12598,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765642,41420,Addison-North Main,2011-05-30,U,11827,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765923,41420,Addison-North Main,2012-03-03,A,5749,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765924,41420,Addison-North Main,2012-03-04,U,4454,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765930,41420,Addison-North Main,2012-03-10,A,6466,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765931,41420,Addison-North Main,2012-03-11,U,5519,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765937,41420,Addison-North Main,2012-03-17,A,19720,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765938,41420,Addison-North Main,2012-03-18,U,8973,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765944,41420,Addison-North Main,2012-03-24,A,6183,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765945,41420,Addison-North Main,2012-03-25,U,5543,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765951,41420,Addison-North Main,2012-03-31,A,6945,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+765952,41420,Addison-North Main,2012-04-01,U,4960,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765958,41420,Addison-North Main,2012-04-07,A,15424,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765959,41420,Addison-North Main,2012-04-08,U,9722,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765965,41420,Addison-North Main,2012-04-14,A,8551,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765966,41420,Addison-North Main,2012-04-15,U,4954,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765972,41420,Addison-North Main,2012-04-21,A,14992,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765973,41420,Addison-North Main,2012-04-22,U,12097,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765979,41420,Addison-North Main,2012-04-28,A,6262,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765980,41420,Addison-North Main,2012-04-29,U,4723,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+765986,41420,Addison-North Main,2012-05-05,A,15026,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765987,41420,Addison-North Main,2012-05-06,U,13188,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765993,41420,Addison-North Main,2012-05-12,A,6069,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+765994,41420,Addison-North Main,2012-05-13,U,4283,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766000,41420,Addison-North Main,2012-05-19,A,14870,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766001,41420,Addison-North Main,2012-05-20,U,15164,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766007,41420,Addison-North Main,2012-05-26,A,6794,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766008,41420,Addison-North Main,2012-05-27,U,6243,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766009,41420,Addison-North Main,2012-05-28,U,13770,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766287,41420,Addison-North Main,2013-03-02,A,5422,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766288,41420,Addison-North Main,2013-03-03,U,4070,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766294,41420,Addison-North Main,2013-03-09,A,6134,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766295,41420,Addison-North Main,2013-03-10,U,4277,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766301,41420,Addison-North Main,2013-03-16,A,17148,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766302,41420,Addison-North Main,2013-03-17,U,8567,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766308,41420,Addison-North Main,2013-03-23,A,6042,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766309,41420,Addison-North Main,2013-03-24,U,4433,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766315,41420,Addison-North Main,2013-03-30,A,5074,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766316,41420,Addison-North Main,2013-03-31,U,3455,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766322,41420,Addison-North Main,2013-04-06,A,6129,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766323,41420,Addison-North Main,2013-04-07,U,5202,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766329,41420,Addison-North Main,2013-04-13,A,13355,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766330,41420,Addison-North Main,2013-04-14,U,12428,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766336,41420,Addison-North Main,2013-04-20,A,6719,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766337,41420,Addison-North Main,2013-04-21,U,4424,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766343,41420,Addison-North Main,2013-04-27,A,6962,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766344,41420,Addison-North Main,2013-04-28,U,4879,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766350,41420,Addison-North Main,2013-05-04,A,13844,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766351,41420,Addison-North Main,2013-05-05,U,12072,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766357,41420,Addison-North Main,2013-05-11,A,6530,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766358,41420,Addison-North Main,2013-05-12,U,4057,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766364,41420,Addison-North Main,2013-05-18,A,14246,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766365,41420,Addison-North Main,2013-05-19,U,12266,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766371,41420,Addison-North Main,2013-05-25,A,5871,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766372,41420,Addison-North Main,2013-05-26,U,5958,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766373,41420,Addison-North Main,2013-05-27,U,3646,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766651,41420,Addison-North Main,2014-03-01,A,5634,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766652,41420,Addison-North Main,2014-03-02,U,3886,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766658,41420,Addison-North Main,2014-03-08,A,6672,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766659,41420,Addison-North Main,2014-03-09,U,4362,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766665,41420,Addison-North Main,2014-03-15,A,15041,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766666,41420,Addison-North Main,2014-03-16,U,7520,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766672,41420,Addison-North Main,2014-03-22,A,5743,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766673,41420,Addison-North Main,2014-03-23,U,4051,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766679,41420,Addison-North Main,2014-03-29,A,5885,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766680,41420,Addison-North Main,2014-03-30,U,5169,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+766686,41420,Addison-North Main,2014-04-05,A,13777,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766687,41420,Addison-North Main,2014-04-06,U,10447,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766693,41420,Addison-North Main,2014-04-12,A,7664,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766694,41420,Addison-North Main,2014-04-13,U,4560,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766700,41420,Addison-North Main,2014-04-19,A,14053,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766701,41420,Addison-North Main,2014-04-20,U,9534,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766707,41420,Addison-North Main,2014-04-26,A,7331,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766708,41420,Addison-North Main,2014-04-27,U,4676,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+766714,41420,Addison-North Main,2014-05-03,A,13938,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766715,41420,Addison-North Main,2014-05-04,U,9366,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766721,41420,Addison-North Main,2014-05-10,A,6071,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766722,41420,Addison-North Main,2014-05-11,U,4281,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766728,41420,Addison-North Main,2014-05-17,A,13078,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766729,41420,Addison-North Main,2014-05-18,U,11709,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766735,41420,Addison-North Main,2014-05-24,A,6390,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766736,41420,Addison-North Main,2014-05-25,U,5897,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766737,41420,Addison-North Main,2014-05-26,U,4163,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+766742,41420,Addison-North Main,2014-05-31,A,6892,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767016,41420,Addison-North Main,2015-03-01,U,3663,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767022,41420,Addison-North Main,2015-03-07,A,5253,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767023,41420,Addison-North Main,2015-03-08,U,3881,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767029,41420,Addison-North Main,2015-03-14,A,16372,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767030,41420,Addison-North Main,2015-03-15,U,6584,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767036,41420,Addison-North Main,2015-03-21,A,5330,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767037,41420,Addison-North Main,2015-03-22,U,3549,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767043,41420,Addison-North Main,2015-03-28,A,5015,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767044,41420,Addison-North Main,2015-03-29,U,3845,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767050,41420,Addison-North Main,2015-04-04,A,5591,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767051,41420,Addison-North Main,2015-04-05,U,12720,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767057,41420,Addison-North Main,2015-04-11,A,5920,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767058,41420,Addison-North Main,2015-04-12,U,4456,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767064,41420,Addison-North Main,2015-04-18,A,14286,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767065,41420,Addison-North Main,2015-04-19,U,9501,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767071,41420,Addison-North Main,2015-04-25,A,6393,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767072,41420,Addison-North Main,2015-04-26,U,4482,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767078,41420,Addison-North Main,2015-05-02,A,13080,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767079,41420,Addison-North Main,2015-05-03,U,11710,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767085,41420,Addison-North Main,2015-05-09,A,5238,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767086,41420,Addison-North Main,2015-05-10,U,3573,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767092,41420,Addison-North Main,2015-05-16,A,13501,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767093,41420,Addison-North Main,2015-05-17,U,10902,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767099,41420,Addison-North Main,2015-05-23,A,5999,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767100,41420,Addison-North Main,2015-05-24,U,5252,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767101,41420,Addison-North Main,2015-05-25,U,11536,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767106,41420,Addison-North Main,2015-05-30,A,10310,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767107,41420,Addison-North Main,2015-05-31,U,11675,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767386,41420,Addison-North Main,2016-03-05,A,5065,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767387,41420,Addison-North Main,2016-03-06,U,3863,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767393,41420,Addison-North Main,2016-03-12,A,13541,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767394,41420,Addison-North Main,2016-03-13,U,4633,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767400,41420,Addison-North Main,2016-03-19,A,5008,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767401,41420,Addison-North Main,2016-03-20,U,3612,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767407,41420,Addison-North Main,2016-03-26,A,4511,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767408,41420,Addison-North Main,2016-03-27,U,2926,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,3,True,41.947428, -87.653626,True
+767414,41420,Addison-North Main,2016-04-02,A,4992,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767415,41420,Addison-North Main,2016-04-03,U,4234,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767421,41420,Addison-North Main,2016-04-09,A,5467,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767422,41420,Addison-North Main,2016-04-10,U,3818,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767428,41420,Addison-North Main,2016-04-16,A,14696,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767429,41420,Addison-North Main,2016-04-17,U,13042,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767435,41420,Addison-North Main,2016-04-23,A,6679,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767436,41420,Addison-North Main,2016-04-24,U,4327,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767442,41420,Addison-North Main,2016-04-30,A,7509,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,4,True,41.947428, -87.653626,True
+767443,41420,Addison-North Main,2016-05-01,U,10388,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767449,41420,Addison-North Main,2016-05-07,A,13348,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767450,41420,Addison-North Main,2016-05-08,U,11734,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767456,41420,Addison-North Main,2016-05-14,A,13693,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767457,41420,Addison-North Main,2016-05-15,U,12530,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767463,41420,Addison-North Main,2016-05-21,A,5478,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767464,41420,Addison-North Main,2016-05-22,U,4332,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767470,41420,Addison-North Main,2016-05-28,A,14281,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767471,41420,Addison-North Main,2016-05-29,U,15883,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
+767472,41420,Addison-North Main,2016-05-30,U,13037,30274,S,Addison (95th-bound),Addison,Addison (Red Line),"41.947428, -87.653626",60613,True,5,True,41.947428, -87.653626,True
